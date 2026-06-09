@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Archana",
+      "email": "archana@gmail.com",
+      "password": "archana",
+      "mobileNo": "9876543210",
+      "gender": "female",
+      "role": "jobseeker",
+      "dob": "2026-06-01",
+      "connections": [],
+      "id": "oB_wekll8lo"
+    },
+    {
+      "name": "Bandamidi",
+      "email": "archana@gmail.com",
+      "password": "bandamidi",
+      "mobileNo": "9908378383",
+      "gender": "female",
+      "role": "hiring",
+      "dob": "2026-06-03",
+      "connections": [],
+      "id": "jmHLvFupS7s"
+    }
+  ],
+  "jobPosts": [],
+  "notifications": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
